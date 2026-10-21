@@ -1,7 +1,11 @@
-Screen Archive is a under working project where user can find the timeline, create a film library, and help them choose what to see next without getting spoiler or 
-get to see what's next without surfing different websites, all at one place.
-This project has been created by 3 undergraduate students have zero practical knowledge of coding, designing or database but still having keen desire to create
-something which may be helpful to some users as there are plenty of websites to get the idea of film you want to watch.
-Thus we kindly request you to do not claim copyright or steal our codes.
-Thank You
-ShubCreates
+# Screen Archive
+
+Screen Archive is a passion project built to help people create their personal film libraries, track their cinematic journeys, explore connections between films, and decide what to watch next, all in one place.
+
+We are **three undergraduate students** with little to no practical experience in coding, design, or databases, learning as we build something we hope people will find useful.
+
+We use AI as a coding assistant where needed, but our goal is to keep the frontend design as human-crafted as possible. We believe design should come from human creativity, not generated templates. As the project grows and starts earning revenue, we plan to dedicate a portion of our funds to hiring freelance or full-time designers to strengthen this vision.
+
+**A small request:** Please respect our work and don't copy, steal, or claim ownership of our code or original designs without permission. Thank you for supporting our journey.
+
+*Made with passion by ShubCreates.2 other undergraduate students*
